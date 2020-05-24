@@ -3,3 +3,19 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.h-hero{
+    height: 50rem;
+}
+
+.btn{
+    @apply rounded px-6 py-2 
+}
+
+.btn-main{
+    @apply bg-brown text-white font-bold block
+}
+
+.btn-sec{
+    @apply text-white border border-solid
+}
