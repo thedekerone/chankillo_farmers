@@ -1,0 +1,24 @@
+{
+  "name": "chankillo_farmers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedekerone/chankillo_farmers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedekerone/chankillo_farmers/issues"
+  },
+  "homepage": "https://github.com/thedekerone/chankillo_farmers#readme"
+}
